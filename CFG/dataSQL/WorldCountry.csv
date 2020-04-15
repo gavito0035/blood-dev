@@ -1,0 +1,247 @@
+code2,code3,name,nameEs,nameUs,phoneCode,status,parent
+AF,AFG,Afghanistan,Afganistán,Afghanistan,93,true
+AL,ALB,Albanie,Albania,Albania,355,true
+DE,DEU,Allemagne,Alemania,Germany,49,true
+DZ,DZA,Algérie,Algeria,Algeria,213,true
+AD,AND,Andorra,Andorra,Andorra,376,true
+AO,AGO,Angola,Angola,Angola,244,true
+AI,AIA,Anguilla,Anguila,Anguilla,1 264,true
+AQ,ATA,L'Antarctique,Antártida,Antarctica,672,true
+AG,ATG,Antigua et Barbuda,Antigua y Barbuda,Antigua and Barbuda,1 268,true
+AN,ANT,Antilles Néerlandaises,Antillas Neerlandesas,Netherlands Antilles,599,true
+SA,SAU,Arabie Saoudite,Arabia Saudita,Saudi Arabia,966,true
+AR,ARG,Argentine,Argentina,Argentina,54,true
+AM,ARM,L'Arménie,Armenia,Armenia,374,true
+AW,ABW,Aruba,Aruba,Aruba,297,true
+AU,AUS,Australie,Australia,Australia,61,true
+AT,AUT,Autriche,Austria,Austria,43,true
+AZ,AZE,L'Azerbaïdjan,Azerbayán,Azerbaijan,994,true
+BE,BEL,Belgique,Bélgica,Belgium,32,true
+BS,BHS,Bahamas,Bahamas,Bahamas,1 242,true
+BH,BHR,Bahreïn,Bahrein,Bahrain,973,true
+BD,BGD,Bangladesh,Bangladesh,Bangladesh,880,true
+BB,BRB,Barbade,Barbados,Barbados,1 246,true
+BZ,BLZ,Belize,Belice,Belize,501,true
+BJ,BEN,Bénin,Benín,Benin,229,true
+BT,BTN,Le Bhoutan,Bhután,Bhutan,975,true
+BY,BLR,Biélorussie,Bielorrusia,Belarus,375,true
+MM,MMR,Myanmar,Birmania,Myanmar,95,true
+BO,BOL,Bolivie,Bolivia,Bolivia,591,true
+BA,BIH,Bosnie-Herzégovine,Bosnia y Herzegovina,Bosnia and Herzegovina,387,true
+BW,BWA,Botswana,Botsuana,Botswana,267,true
+BR,BRA,Brésil,Brasil,Brazil,55,true
+BN,BRN,Brunei,Brunéi,Brunei,673,true
+BG,BGR,Bulgarie,Bulgaria,Bulgaria,359,true
+BF,BFA,Burkina Faso,Burkina Faso,Burkina Faso,226,true
+BI,BDI,Burundi,Burundi,Burundi,257,true
+CV,CPV,Cap-Vert,Cabo Verde,Cape Verde,238,true
+KH,KHM,Cambodge,Camboya,Cambodia,855,true
+CM,CMR,Cameroun,Camerún,Cameroon,237,true
+CA,CAN,Canada,Canadá,Canada,1,true
+TD,TCD,Tchad,Chad,Chad,235,true
+CL,CHL,Chili,Chile,Chile,56,true
+CN,CHN,Chine,China,China,86,true
+CY,CYP,Chypre,Chipre,Cyprus,357,true
+VA,VAT,Cité du Vatican,Ciudad del Vaticano,Vatican City State,39,true
+CO,COL,Colombie,Colombia,Colombia,57,true
+KM,COM,Comores,Comoras,Comoros,269,true
+CG,COG,Congo,Congo,Congo,242,true
+CD,COD,Congo,Congo,Congo,243,true
+KP,PRK,Corée du Nord,Corea del Norte,North Korea,850,true
+KR,KOR,Corée du Sud,Corea del Sur,South Korea,82,true
+CI,CIV,Côte-d'Ivoire,Costa de Marfil,Ivory Coast,225,true
+CR,CRI,Costa Rica,Costa Rica,Costa Rica,506,true
+HR,HRV,Croatie,Croacia,Croatia,385,true
+CU,CUB,Cuba,Cuba,Cuba,53,true
+DK,DNK,Danemark,Dinamarca,Denmark,45,true
+DM,DMA,Dominique,Dominica,Dominica,1 767,true
+EC,ECU,Equateur,Ecuador,Ecuador,593,true
+EG,EGY,Egypte,Egipto,Egypt,20,true
+SV,SLV,El Salvador,El Salvador,El Salvador,503,true
+AE,ARE,Emirats Arabes Unis,Emiratos Árabes Unidos,United Arab Emirates,971,true
+ER,ERI,Erythrée,Eritrea,Eritrea,291,true
+SK,SVK,Slovaquie,Eslovaquia,Slovakia,421,true
+SI,SVN,Slovénie,Eslovenia,Slovenia,386,true
+ES,ESP,Espagne,España,Spain,34,true
+US,USA,États-Unis d'Amérique,Estados Unidos de América,United States of America,1,true
+EE,EST,L'Estonie,Estonia,Estonia,372,true
+ET,ETH,Ethiopie,Etiopía,Ethiopia,251,true
+PH,PHL,Philippines,Filipinas,Philippines,63,true
+FI,FIN,Finlande,Finlandia,Finland,358,true
+FJ,FJI,Fidji,Fiyi,Fiji,679,true
+FR,FRA,France,Francia,France,33,true
+GA,GAB,Gabon,Gabón,Gabon,241,true
+GM,GMB,Gambie,Gambia,Gambia,220,true
+GE,GEO,Géorgie,Georgia,Georgia,995,true
+GH,GHA,Ghana,Ghana,Ghana,233,true
+GI,GIB,Gibraltar,Gibraltar,Gibraltar,350,true
+GD,GRD,Grenade,Granada,Grenada,1 473,true
+GR,GRC,Grèce,Grecia,Greece,30,true
+GL,GRL,Groenland,Groenlandia,Greenland,299,true
+GP,GLP,Guadeloupe,Guadalupe,Guadeloupe,,true
+GU,GUM,Guam,Guam,Guam,1 671,true
+GT,GTM,Guatemala,Guatemala,Guatemala,502,true
+GF,GUF,Guyane française,Guayana Francesa,French Guiana,,true
+GG,GGY,Guernesey,Guernsey,Guernsey,,true
+GN,GIN,Guinée,Guinea,Guinea,224,true
+GQ,GNQ,Guinée Equatoriale,Guinea Ecuatorial,Equatorial Guinea,240,true
+GW,GNB,Guinée-Bissau,Guinea-Bissau,Guinea-Bissau,245,true
+GY,GUY,Guyane,Guyana,Guyana,592,true
+HT,HTI,Haïti,Haití,Haiti,509,true
+HN,HND,Honduras,Honduras,Honduras,504,true
+HK,HKG,Hong Kong,Hong kong,Hong Kong,852,true
+HU,HUN,Hongrie,Hungría,Hungary,36,true
+IN,IND,Inde,India,India,91,true
+ID,IDN,Indonésie,Indonesia,Indonesia,62,true
+IR,IRN,Iran,Irán,Iran,98,true
+IQ,IRQ,Irak,Irak,Iraq,964,true
+IE,IRL,Irlande,Irlanda,Ireland,353,true
+BV,BVT,Bouvet Island,Isla Bouvet,Bouvet Island,,true
+IM,IMN,Ile de Man,Isla de Man,Isle of Man,44,true
+CX,CXR,Christmas Island,Isla de Navidad,Christmas Island,61,true
+NF,NFK,Île de Norfolk,Isla Norfolk,Norfolk Island,,true
+IS,ISL,Islande,Islandia,Iceland,354,true
+BM,BMU,Bermudes,Islas Bermudas,Bermuda Islands,1 441,true
+KY,CYM,Iles Caïmans,Islas Caimán,Cayman Islands,1 345,true
+CC,CCK,Cocos (Keeling,Islas Cocos (Keeling),Cocos (Keeling) Islands,61,true
+CK,COK,Iles Cook,Islas Cook,Cook Islands,682,true
+AX,ALA,Îles Åland,Islas de Åland,Åland Islands,,true
+FO,FRO,Iles Féro,Islas Feroe,Faroe Islands,298,true
+GS,SGS,Géorgie du Sud et les Îles Sandwich du Sud,Islas Georgias del Sur y Sandwich del Sur,South Georgia and the South Sandwich Islands,,true
+HM,HMD,Les îles Heard et McDonald,Islas Heard y McDonald,Heard Island and McDonald Islands,,true
+MV,MDV,Maldives,Islas Maldivas,Maldives,960,true
+FK,FLK,Iles Falkland (Malvinas,Islas Malvinas,Falkland Islands (Malvinas),500,true
+MP,MNP,Iles Mariannes du Nord,Islas Marianas del Norte,Northern Mariana Islands,1 670,true
+MH,MHL,Iles Marshall,Islas Marshall,Marshall Islands,692,true
+PN,PCN,Iles Pitcairn,Islas Pitcairn,Pitcairn Islands,870,true
+SB,SLB,Iles Salomon,Islas Salomón,Solomon Islands,677,true
+TC,TCA,Iles Turques et Caïques,Islas Turcas y Caicos,Turks and Caicos Islands,1 649,true
+UM,UMI,États-Unis Îles mineures éloignées,Islas Ultramarinas Menores de Estados Unidos,United States Minor Outlying Islands,,true
+VG,VG,Iles Vierges,Islas Vírgenes Británicas,Virgin Islands,1 284,true
+VI,VIR,Îles Vierges américaines,Islas Vírgenes de los Estados Unidos,United States Virgin Islands,1 340,true
+IL,ISR,Israël,Israel,Israel,972,true
+IT,ITA,Italie,Italia,Italy,39,true
+JM,JAM,Jamaïque,Jamaica,Jamaica,1 876,true
+JP,JPN,Japon,Japón,Japan,81,true
+JE,JEY,Maillot,Jersey,Jersey,,true
+JO,JOR,Jordan,Jordania,Jordan,962,true
+KZ,KAZ,Le Kazakhstan,Kazajistán,Kazakhstan,7,true
+KE,KEN,Kenya,Kenia,Kenya,254,true
+KG,KGZ,Kirghizstan,Kirgizstán,Kyrgyzstan,996,true
+KI,KIR,Kiribati,Kiribati,Kiribati,686,true
+KW,KWT,Koweït,Kuwait,Kuwait,965,true
+LB,LBN,Liban,Líbano,Lebanon,961,true
+LA,LAO,Laos,Laos,Laos,856,true
+LS,LSO,Lesotho,Lesoto,Lesotho,266,true
+LV,LVA,La Lettonie,Letonia,Latvia,371,true
+LR,LBR,Liberia,Liberia,Liberia,231,true
+LY,LBY,Libye,Libia,Libya,218,true
+LI,LIE,Liechtenstein,Liechtenstein,Liechtenstein,423,true
+LT,LTU,La Lituanie,Lituania,Lithuania,370,true
+LU,LUX,Luxembourg,Luxemburgo,Luxembourg,352,true
+MX,MEX,Mexique,México,Mexico,52,true
+MC,MCO,Monaco,Mónaco,Monaco,377,true
+MO,MAC,Macao,Macao,Macao,853,true
+MK,MKD,Macédoine,Macedônia,Macedonia,389,true
+MG,MDG,Madagascar,Madagascar,Madagascar,261,true
+MY,MYS,Malaisie,Malasia,Malaysia,60,true
+MW,MWI,Malawi,Malawi,Malawi,265,true
+ML,MLI,Mali,Mali,Mali,223,true
+MT,MLT,Malte,Malta,Malta,356,true
+MA,MAR,Maroc,Marruecos,Morocco,212,true
+MQ,MTQ,Martinique,Martinica,Martinique,,true
+MU,MUS,Iles Maurice,Mauricio,Mauritius,230,true
+MR,MRT,Mauritanie,Mauritania,Mauritania,222,true
+YT,MYT,Mayotte,Mayotte,Mayotte,262,true
+FM,FSM,Federados Estados de,Micronesia,Estados Federados de,691,true
+MD,MDA,Moldavie,Moldavia,Moldova,373,true
+MN,MNG,Mongolie,Mongolia,Mongolia,976,true
+ME,MNE,Monténégro,Montenegro,Montenegro,382,true
+MS,MSR,Montserrat,Montserrat,Montserrat,1 664,true
+MZ,MOZ,Mozambique,Mozambique,Mozambique,258,true
+NA,NAM,Namibie,Namibia,Namibia,264,true
+NR,NRU,Nauru,Nauru,Nauru,674,true
+NP,NPL,Népal,Nepal,Nepal,977,true
+NI,NIC,Nicaragua,Nicaragua,Nicaragua,505,true
+NE,NER,Niger,Niger,Niger,227,true
+NG,NGA,Nigeria,Nigeria,Nigeria,234,true
+NU,NIU,Niou,Niue,Niue,683,true
+NO,NOR,Norvège,Noruega,Norway,47,true
+NC,NCL,Nouvelle-Calédonie,Nueva Caledonia,New Caledonia,687,true
+NZ,NZL,Nouvelle-Zélande,Nueva Zelanda,New Zealand,64,true
+OM,OMN,Oman,Omán,Oman,968,true
+NL,NLD,Pays-Bas,Países Bajos,Netherlands,31,true
+PK,PAK,Pakistan,Pakistán,Pakistan,92,true
+PW,PLW,Palau,Palau,Palau,680,true
+PS,PSE,La Palestine,Palestina,Palestine,,true
+PA,PAN,Panama,Panamá,Panama,507,true
+PG,PNG,Papouasie-Nouvelle-Guinée,Papúa Nueva Guinea,Papua New Guinea,675,true
+PY,PRY,Paraguay,Paraguay,Paraguay,595,true
+PE,PER,Pérou,Perú,Peru,51,true
+PF,PYF,Polynésie française,Polinesia Francesa,French Polynesia,689,true
+PL,POL,Pologne,Polonia,Poland,48,true
+PT,PRT,Portugal,Portugal,Portugal,351,true
+PR,PRI,Porto Rico,Puerto Rico,Puerto Rico,1,true
+QA,QAT,Qatar,Qatar,Qatar,974,true
+GB,GBR,Royaume-Uni,Reino Unido,United Kingdom,44,true
+CF,CAF,République Centrafricaine,República Centroafricana,Central African Republic,236,true
+CZ,CZE,République Tchèque,República Checa,Czech Republic,420,true
+DO,DOM,République Dominicaine,República Dominicana,Dominican Republic,1 809,true
+RE,REU,Réunion,Reunión,Réunion,,true
+RW,RWA,Rwanda,Ruanda,Rwanda,250,true
+RO,ROU,Roumanie,Rumanía,Romania,40,true
+RU,RUS,La Russie,Rusia,Russia,7,true
+EH,ESH,Sahara Occidental,Sahara Occidental,Western Sahara,,true
+WS,WSM,Samoa,Samoa,Samoa,685,true
+AS,ASM,Les Samoa américaines,Samoa Americana,American Samoa,1 684,true
+BL,BLM,Saint-Barthélemy,San Bartolomé,Saint Barthélemy,590,true
+KN,KNA,Saint Kitts et Nevis,San Cristóbal y Nieves,Saint Kitts and Nevis,1 869,true
+SM,SMR,San Marino,San Marino,San Marino,378,true
+MF,MAF,Saint-Martin (partie française),San Martín (Francia),Saint Martin (French part),1 599,true
+PM,SPM,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,Saint Pierre and Miquelon,508,true
+VC,VCT,Saint-Vincent et Grenadines,San Vicente y las Granadinas,Saint Vincent and the Grenadines,1 784,true
+SH,SHN,Ascensión y Tristan de Acuña,Santa Elena,Ascensión y Tristán de Acuña,290,true
+LC,LCA,Sainte-Lucie,Santa Lucía,Saint Lucia,1 758,true
+ST,STP,Sao Tomé et Principe,Santo Tomé y Príncipe,Sao Tome and Principe,239,true
+SN,SEN,Sénégal,Senegal,Senegal,221,true
+RS,SRB,Serbie,Serbia,Serbia,381,true
+SC,SYC,Les Seychelles,Seychelles,Seychelles,248,true
+SL,SLE,Sierra Leone,Sierra Leona,Sierra Leone,232,true
+SG,SGP,Singapour,Singapur,Singapore,65,true
+SY,SYR,Syrie,Siria,Syria,963,true
+SO,SOM,Somalie,Somalia,Somalia,252,true
+LK,LKA,Sri Lanka,Sri lanka,Sri Lanka,94,true
+ZA,ZAF,Afrique du Sud,Sudáfrica,South Africa,27,true
+SD,SDN,Soudan,Sudán,Sudan,249,true
+SE,SWE,Suède,Suecia,Sweden,46,true
+CH,CHE,Suisse,Suiza,Switzerland,41,true
+SR,SUR,Surinam,Surinám,Suriname,597,true
+SJ,SJM,Svalbard et Jan Mayen,Svalbard y Jan Mayen,Svalbard and Jan Mayen,,true
+SZ,SWZ,Swaziland,Swazilandia,Swaziland,268,true
+TJ,TJK,Le Tadjikistan,Tadjikistán,Tajikistan,992,true
+TH,THA,Thaïlande,Tailandia,Thailand,66,true
+TW,TWN,Taiwan,Taiwán,Taiwan,886,true
+TZ,TZA,Tanzanie,Tanzania,Tanzania,255,true
+IO,IOT,Territoire britannique de l'océan Indien,Territorio Británico del Océano Índico,British Indian Ocean Territory,,true
+TF,ATF,Terres australes françaises,Territorios Australes y Antárticas Franceses,French Southern Territories,,true
+TL,TLS,Timor-Oriental,Timor Oriental,East Timor,670,true
+TG,TGO,Togo,Togo,Togo,228,true
+TK,TKL,Tokélaou,Tokelau,Tokelau,690,true
+TO,TON,Tonga,Tonga,Tonga,676,true
+TT,TTO,Trinidad et Tobago,Trinidad y Tobago,Trinidad and Tobago,1 868,true
+TN,TUN,Tunisie,Tunez,Tunisia,216,true
+TM,TKM,Le Turkménistan,Turkmenistán,Turkmenistan,993,true
+TR,TUR,Turquie,Turquía,Turkey,90,true
+TV,TUV,Tuvalu,Tuvalu,Tuvalu,688,true
+UA,UKR,L'Ukraine,Ucrania,Ukraine,380,true
+UG,UGA,Ouganda,Uganda,Uganda,256,true
+UY,URY,Uruguay,Uruguay,Uruguay,598,true
+UZ,UZB,L'Ouzbékistan,Uzbekistán,Uzbekistan,998,true
+VU,VUT,Vanuatu,Vanuatu,Vanuatu,678,true
+VE,VEN,Venezuela,Venezuela,Venezuela,58,true
+VN,VNM,Vietnam,Vietnam,Vietnam,84,true
+WF,WLF,Wallis et Futuna,Wallis y Futuna,Wallis and Futuna,681,true
+YE,YEM,Yémen,Yemen,Yemen,967,true
+DJ,DJI,Djibouti,Yibuti,Djibouti,253,true
+ZM,ZMB,Zambie,Zambia,Zambia,260,true
+ZW,ZWE,Zimbabwe,Zimbabue,Zimbabwe,263,true

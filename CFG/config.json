@@ -1,0 +1,130 @@
+{
+	"basePath": "B:/Work/Apps/JAVA/sius_java/CFG/",
+	"keysecret": "secret",
+	"jwt": "X-Auth-Jwt",
+	"test": true,
+	"limit": 3000,
+	"datasourceDefault": "postgres",
+	"data": "B:/Work/Apps/JAVA/sius_java/CFG/dataSQL/",
+	"readFiles": 3660,
+	"logInternal": "min",
+	"externalPath": "",
+	"log4j": {},
+	"email": {
+		"host": "smtp.gmail.com",
+		"port": "25",
+		"from": "admin@skeleton.com",
+		"user": "",
+		"password": "",
+		"ssl": false,
+		"startTls": true,
+		"auth": true
+	},
+	"datasources": {
+		"postgres": {
+			"driver": "postgres",
+			"dialect": "org.hibernate.dialect.PostgreSQLDialect",
+			"connectionDriverClass": "org.postgresql.Driver",
+			"connectionUrl": "jdbc:postgresql://localhost:5432/sius",
+			"connectionUsername": "postgres",
+			"connectionPassword": "postgres",
+			"defaultSchema": "skeleton",
+			"showSql": "false",
+			"hbm2ddlAuto": "update",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"mysql": {
+			"driver": "mysql",
+			"dialect": "org.hibernate.dialect.MySQLDialect",
+			"connectionDriverClass": "com.mysql.cj.jdbc.Driver",
+			"connectionUrl": "jdbc:mysql://localhost:3306/sius?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC",
+			"connectionUsername": "root",
+			"connectionPassword": "",
+			"showSql": "false",
+			"hbm2ddlAuto": "update",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"oracle": {
+			"driver": "oracle",
+			"dialect": "org.hibernate.dialect.Oracle10gDialect",
+			"connectionDriverClass": "oracle.jdbc.driver.OracleDriver",
+			"connectionUrl": "jdbc:oracle:thin:@127.0.0.1:1521:sius",
+			"connectionUsername": "root",
+			"connectionPassword": "oracle",
+			"defaultSchema": "skeleton",
+			"showSql": "false",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"sqlserver": {
+			"driver": "sqlserver",
+			"dialect": "org.hibernate.dialect.SQLServerDialect",
+			"connectionDriverClass": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+			"connectionUrl": "jdbc:sqlserver://localhost;databaseName=sius",
+			"connectionUsername": "root",
+			"connectionPassword": "sqlserver",
+			"showSql": "false",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"sybase": {
+			"driver": "sybase",
+			"dialect": "org.hibernate.dialect.SybaseDialect",
+			"connectionDriverClass": "com.sybase.jdbc3.jdbc.SybDriver",
+			"connectionUrl": "jdbc:sybase:Tds:10.0.6.1:2639/sius",
+			"connectionUsername": "root",
+			"connectionPassword": "sybase",
+			"showSql": "false",
+			"hbm2ddlAuto": "update",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"derby": {
+			"driver": "derby",
+			"dialect": "org.hibernate.dialect.DerbyDialect",
+			"connectionDriverClass": "org.apache.derby.jdbc.EmbeddedDriver",
+			"connectionUrl": "jdbc:derby:/home/databases/sius;create=true",
+			"connectionUsername": "root",
+			"connectionPassword": "derby",
+			"showSql": "false",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"db2": {
+			"driver": "db2",
+			"dialect": "org.hibernate.dialect.DB2Dialect",
+			"connectionDriverClass": "com.ibm.db2.jcc.DB2Driver",
+			"connectionUrl": "jdbc:db2://localhost:50000/sius",
+			"connectionUsername": "root",
+			"connectionPassword": "db2",
+			"showSql": "false",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"informix": {
+			"driver": "informix",
+			"dialect": "org.hibernate.dialect.InformixDialect",
+			"connectionDriverClass": "com.informix.jdbc.IfxDriver",
+			"connectionUrl": "jdbc:informix-sqli://localhost:9088/sius:INFORMIXSERVER=demo_on",
+			"connectionUsername": "root",
+			"connectionPassword": "informix",
+			"showSql": "false",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		},
+		"h2": {
+			"driver": "h2",
+			"dialect": "org.hibernate.dialect.H2Dialect",
+			"connectionDriverClass": "org.h2.Driver",
+			"connectionUrl": "jdbc:h2:mem:sius",
+			"connectionUsername": "root",
+			"connectionPassword": "h2",
+			"showSql": "false",
+			"hbm2ddlAuto": "create-drop",
+			"poolSize": "10",
+			"pathClasses": "com.skeleton.modules.data.entities"
+		}
+	}
+}

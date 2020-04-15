@@ -1,0 +1,8 @@
+estatus,calificacion,descripcion
+true,1,Pésimo
+true,2,Muy Malo
+true,3,Malo
+true,4,Buena
+true,5,Muy Buena
+true,6,Excelente
+false,7,Trascendental

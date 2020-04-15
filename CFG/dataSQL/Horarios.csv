@@ -1,0 +1,7 @@
+descripcion,estatus,parent
+Diurno,true
+Nocturno,true
+Sabatino,true
+Fines de semana,true
+Feriados,true
+Siempre,false

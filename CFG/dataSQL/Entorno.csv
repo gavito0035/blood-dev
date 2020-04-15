@@ -1,0 +1,11 @@
+idClase,idTipoEntorno,descripcion,estatus,imagen,parent
+1,1,Oficina en Centro Comercial / Alta Rentabilidad,true,/ruta/a/la/imagen/entorno/1
+2,1,Oficina en Centro Comercial / Rentabilidad Media,true,/ruta/a/la/imagen/entorno/2
+3,1,Oficina en Centro Comercial / Baja Rentabilidad,true,/ruta/a/la/imagen/entorno/3
+1,2,Oficina Banco / Alta Rentabilidad,true,/ruta/a/la/imagen/entorno/4
+2,2,Oficina Banco / Rentabilidad Media,true,/ruta/a/la/imagen/entorno/5
+3,2,Oficina Banco / Baja Rentabilidad,true,/ruta/a/la/imagen/entorno/6
+4,1,Oficina Banco / Clase deshabilitada,true,/ruta/a/la/imagen/entorno/7
+4,2,Oficina Banco / Clase deshabilitada,true,/ruta/a/la/imagen/entorno/8
+4,3,Tipo entorno deshabilitado / Clase deshabilitada,true,/ruta/a/la/imagen/entorno/9
+4,3,Todo deshabilitado,false,/ruta/a/la/imagen/entorno/10

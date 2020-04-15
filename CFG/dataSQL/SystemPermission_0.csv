@@ -1,0 +1,7 @@
+name,dataMethod,icon,status,logged,showInMenu,uri,parent,idRole
+menu.gestion,GET,calendar-alt,true,true,true,/gestion,,1
+menu.monitores,GET,file-chart-pie,true,true,true,/monitoreo,,1
+menu.informacion,GET,table,true,true,true,/informacion,,1
+menu.procesos,GET,tasks,true,true,true,/proceso,,1
+menu.mp,GET,box-check,false,true,true,/mp,,1
+menu.administracion,GET,sitemap,true,true,true,/administracion,,1

@@ -1,0 +1,72 @@
+image: node:latest
+
+stages:
+  - build
+  - unit-tests
+  - deploy
+
+tests-prod:
+  stage: unit-tests
+  image: ruby:latest
+  script:
+    - apt-get update -qy
+    - apt-get install -y maven
+  only:
+    - master
+
+deploy-prod:
+  stage: deploy
+  image: ruby:latest
+  environment:
+    name: master
+  script:
+    - apt-get update -qy
+    - apt-get install -y ruby-dev
+    - gem install dpl
+    - dpl --provider=heroku --app=${HEROKU_APP} --api-key=${HEROKU_API_KEY}
+  only:
+    - master
+
+tests-test:
+  stage: unit-tests
+  image: ruby:latest
+  script:
+    - apt-get update -qy
+    - apt-get install -y maven
+  only:
+    - testing
+
+deploy-test:
+  stage: deploy
+  image: ruby:latest
+  environment:
+    name: testing
+  script:
+    - apt-get update -qy
+    - apt-get install -y ruby-dev
+    - gem install dpl
+    - dpl --provider=heroku --app=${HEROKU_APP}-test --api-key=${HEROKU_API_KEY_TEST}
+  only:
+    - testing
+
+tests-dev:
+  stage: unit-tests
+  image: ruby:latest
+  script:
+    - apt-get update -qy
+    - apt-get install -y maven
+  only:
+    - development
+
+deploy-dev:
+  stage: deploy
+  image: ruby:latest
+  environment:
+    name: development
+  script:
+    - apt-get update -qy
+    - apt-get install -y ruby-dev
+    - gem install dpl
+    - dpl --provider=heroku --app=${HEROKU_APP}-dev --api-key=${HEROKU_API_KEY_DEV}
+  only:
+    - development

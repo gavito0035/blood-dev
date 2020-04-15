@@ -1,0 +1,8 @@
+dni,idEntorno,idTipoPersona,idRegion,idEstado,idHorario,nrs,apellido,direccion,telefono,cordenada,status,correo,fechaApertura,codComercial,codSafe,parent
+25987938,,6,1,1,1,Abel,Laguna,Torre Mercantil,04161596352,,true,presidente@banco.com,1000-01-01,,
+001,1,9,4,5,1,Banco Mercantil,,La Candelaria,04125698745,10.469637; -66.824284,true,vice_presidente@banco.com,2019-09-23,001,
+10288406,,3,1,2,2,Gorge Pernalete,Pernalete,El Rosal,04263541349,,true,gerente@banco.com,1000-01-01,,
+15236985,,6,,3,1,Hector Beltran,Beltran,La Hoyada,04241532698,,true,tecnico@banco.com,1000-01-01,,
+002,2,9,4,5,1,Las Flores,,La Hoyada,04241532698,10.475450; -66.805766,true,centro_contacto@banco.com,2000-07-05,002,
+003,3,9,4,3,1,Los Mangos,,Miranda,02125698541,10.469637; -66.824284,true,centro_contacto@banco.com,2016-05-12,003,
+004,4,10,11,24,3,Los Cerritos,,Porlamar,02122586341,10.469637; -66.824284,false,centro_contacto@banco.com,1997-01-15,004,

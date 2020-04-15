@@ -1,0 +1,11 @@
+idActividad,idSistema,estatus,descripcion,parent
+1,1,1,Se realizó un mantenimiento preventivo
+2,2,1,Se realizó un mantenimiento predictivo
+3,3,3,Se realizó una visita de mantenimiento
+4,4,1,Se realizó una reparación del equipo en cuestión
+5,5,1,Se evaluó la configuración del dispositivo
+6,6,1,Se realizó reemplazo de las cámaras
+6,6,1,Se hizo mantenimiento a las rejas de santa maría
+6,6,1,Se instaló nuevos equipos de detección de huellas
+6,6,1,El Área en cuestión presenta irregularidades
+6,6,1,Se realizó un mantenimiento preventivo

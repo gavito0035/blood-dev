@@ -1,0 +1,18 @@
+descripcion,status,isEvent,notifyDue
+Robo-hurto,true,true,false
+desastre natural,true,true,false
+alerta inspeccion,true,false,false
+incendio de oficina,true,true,false
+adiestramiento sobre incendios,true,true,false
+inspeccion especialista,true,true,true
+inspeccion CICPC,true,true,true
+inspeccion Bomberos,true,true,true
+eventualidad inesperada,true,true,false
+equipos dañados,true,true,false
+falla electrica,true,true,false
+adiestramiento sobre sismos,true,true,false
+equipos perdidos ,true,true,false
+mayoria de guardias faltantes,true,true,false
+mayoria de empleados faltantes,true,true,false
+eventualidad dentro de la oficina,true,true,false
+otros,true,true,false

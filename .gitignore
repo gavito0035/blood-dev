@@ -1,0 +1,71 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+build
+nbproject
+dist
+tmp
+out-tsc
+plugins/
+plugins/android.json
+plugins/ios.json
+*target
+bld
+bin
+
+# dependencies
+node_modules
+vendor
+
+# IDEs and editors
+.idea
+.svn
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-project
+*.sublime-workspace
+*nb-configuration.xml
+*.iml
+
+# IDE - VSCode
+.vs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.user
+*.jsproj
+
+# file not necesary
+*~
+*.key
+*.log
+*.sw[mnpcod]
+*.tmp
+*.tmp.*
+.tmp/
+tmp/
+temp/
+log.txt
+npm-debug.log*
+out/
+
+# misc
+.sourcemaps/
+.sass-cache
+connect.lock
+coverage/
+typings
+.versions/
+hooks/
+www/
+
+# System Files
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/

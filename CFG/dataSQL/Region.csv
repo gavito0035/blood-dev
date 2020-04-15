@@ -1,0 +1,13 @@
+nombre,imagen,nombreEspecialista,estatus
+Metro 1,,Abel Laguna,false
+Metro 2,,Jhaimar Romero,false
+Metro 3,,Gabriel Aniez,false
+Caribe,,Carlos Posada,false
+Central,,Samuel Rivas,true
+Centro-Occidental,,Samuel Rivas,true
+Insular,,Josue Becerra,false
+Guayana,,Isaac Hernandez,false
+Los Llanos,,Isaac Hernandez,false
+Occidental,,Luis Bastidas,true
+Oriental,,Isaac Hernandez,true
+Zuliana,,Isaac Hernandez,false

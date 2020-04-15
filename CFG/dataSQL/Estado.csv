@@ -1,0 +1,25 @@
+idRegion,nombre,estatus,imagen,parent
+5,Aragua,true
+5,Carabobo,true
+5,Miranda,true
+5,La Guaira,true
+5,Dtto. Capital,true
+6,Cojedes,true
+6,Falcon,true
+6,Lara,true
+6,Portuguesa,true
+6,Yaracuy,true
+9,Amazonas,true
+9,Bolívar,true
+10,Apure,true
+10,Barinas,true
+10,Guárico,true
+11,Mérida,true
+11,Táchira,true
+11,Trujillo,true
+11,Zulia,true
+12,Anzoátegui,true
+12,Delta Amacuro,true
+12,Monagas,true
+12,Nueva Esparta,true
+12,Sucre,true
